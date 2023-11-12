@@ -1,3 +1,5 @@
+#ifndef KEYBYSALARY_H
+#define KEYBYSALARY_H
 #include <iostream>
 #include "employee.h"
 
@@ -42,3 +44,4 @@ class KeyBySalary{
 
 
 };
+#endif

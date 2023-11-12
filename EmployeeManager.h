@@ -1,12 +1,11 @@
-#ifndef EMPLOYEE_MANAGER_H
-#define EMPLOYEE_MANAGER_H
 
 #include <iostream>
 #include "avl.h"
 #include "library1.h"
-
-class Company;
-class KeyBySalary;
+#include "Company.h"
+#include "Employee"
+#include "KeybyId.h"
+#include "KeyBySalary.h"
 
 
 class  EmployeeManager{

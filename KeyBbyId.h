@@ -1,5 +1,8 @@
+#ifndef KEYBYID_H
+#define KEYBYID_H
+
 #include <iostream>
-#include "employee.h"
+
 
 class KeyByID{
     private:
@@ -35,3 +38,4 @@ class KeyByID{
 
 
 };
+#endif

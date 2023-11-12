@@ -1,3 +1,6 @@
+
+#ifndef COMPANY_H
+#define COMPANY_H
 #include <iostream>
 using namespace std;
 #include "employee.h"
@@ -166,3 +169,4 @@ class Company{
     }
 };
 
+#endif
